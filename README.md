@@ -63,7 +63,7 @@ Sjnez - OyVey/Phobos fetish, Skidded just about any client in order to make "Ren
 
 Es0teric - Oyvey/Phobos paster, made Gondal.club
 
-SirMeme - The single most retarded skid to ever touch intelij. Renamed varius public clients to "FutureX" and tried to sell them. He joined various discords to promote his dogshit.
+SirMeme - The single most retarded skid to ever touch intellij. Renamed varius public clients to "FutureX" and tried to sell them. He joined various discords to promote his dogshit.
 
 Novola/Trental - Somehow convinced Gopro to make oyvey buildable (a god awful decision). Then they proceeded to make the original oyvey paste called "Zori" that started this horrible trend.
 
