@@ -103,6 +103,8 @@ earthquake - Actually a very good developer, Creator of phobos/earthhack. Skidde
 
 Ionar - Developer of the massively popular Salhack client, which pasted hevily from seppuku, and also kami. Later contiued it privately to make summit which was a awful paste. Even the code he wrote was shitty. He even put a recomendation on the git repo, advising people to not use it. His latest endevour, a colaberation with developer, Giant Nuker called Pyro, became a meme very quickly for having an AutoCrystal that appered much faster than it actually was, and later for becoming an exit scam after it was cracked. To this day the next version of pyro, "1.5" has not released, and we are approching 2 years with 1.4.1. 1.5 looks decent, but as for now Pyro is considered a private client. Event if it does release, 90% of the original Pyro buyers have since quit 😂.
 
+finz0 - Started with a kami fork, then the somewhat popular Osiris which was skidded from various other clients but also had some original (bad) code, then a (pretty good at the time) private client which was 90% original (better) code. Now working on a 1.18 client.
+
 ---
 
 If you are on this list and come crying into the issue or pull requests tab, you're just proving your skid-ness (thats not even a word)
