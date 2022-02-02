@@ -61,7 +61,7 @@ Ciruu - Made quite possible the most skidded kami skid to ever exist, "Zispanos 
 
 Sjnez - OyVey/Phobos fetish, Skidded just about any client in order to make "Renosense" and got ratted by it 😂. Pasted salhack PacketEvent and event bus for one module even though his phobos base already had one 💀.
 
-Es0teric - Oyvey/Phobos paster, made Gondal.club
+Es0terik - Oyvey/Phobos paster, made Gondal.club
 
 SirMeme - The single most retarded skid to ever touch intelij. Renamed varius public clients to "FutureX" and tried to sell them. He joined various discords to promote his dogshit.
 
