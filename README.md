@@ -61,7 +61,7 @@ Ciruu - Made quite possible the most skidded kami skid to ever exist, "Zispanos 
 
 Sjnez - OyVey/Phobos fetish, Skidded just about any client in order to make "Renosense" and got ratted by it 😂. Pasted salhack PacketEvent and event bus for one module even though his phobos base already had one 💀.
 
-Es0teric - Oyvey/Phobos paster, made Gondal.club
+Es0terik - Oyvey/Phobos paster, made Gondal.club
 
 SirMeme - The single most retarded skid to ever touch intellij. Renamed varius public clients to "FutureX" and tried to sell them. He joined various discords to promote his dogshit.
 
@@ -101,7 +101,9 @@ Gopro336 - Mediocre coder that went from complete rando to a big namer by leachi
 
 earthquake - Actually a very good developer, Creator of phobos/earthhack. Skidded kami at first, and then moved on to skiding Seppuku, and Exeter for the gui. (Thats why hes on the list) Makes decent modules, and has improved lots. 3arthhck 1.3.1's code is suprisingly good, and is very overbuilt (I do kinda get Exeter vibes from it tho).
 
-Ionar - Developer of the massively popular Salhack client, which pasted hevily from sepuku, and also kami. Later contiued it privately to make summit which was a awful paste. Even the code he wrote was shitty. He even put a recomendation on the git repo, advising people to not use it. His latest endevour, a colaberation with developer, Giant Nuker called Pyro, became a meme very quickly for having an AutoCrystal that appered much faster than it actually was, and later for becoming an exit scam after it was cracked. To this day the next version of pyro, "1.5" has not released, and we are approching 2 years with 1.4.1. 1.5 looks decent, but as for now Pyro is considered a private client. Event if it does release, 90% of the original Pyro buyers have since quit 😂.
+Ionar - Developer of the massively popular Salhack client, which pasted hevily from seppuku, and also kami. Later contiued it privately to make summit which was a awful paste. Even the code he wrote was shitty. He even put a recomendation on the git repo, advising people to not use it. His latest endevour, a colaberation with developer, Giant Nuker called Pyro, became a meme very quickly for having an AutoCrystal that appered much faster than it actually was, and later for becoming an exit scam after it was cracked. To this day the next version of pyro, "1.5" has not released, and we are approching 2 years with 1.4.1. 1.5 looks decent, but as for now Pyro is considered a private client. Event if it does release, 90% of the original Pyro buyers have since quit 😂.
+
+finz0 - Started with a kami fork, then the somewhat popular Osiris which was skidded from various other clients but also had some original (bad) code, then a (pretty good at the time) private client which was 90% original (better) code. Now working on a 1.18 client.
 
 ---
 
