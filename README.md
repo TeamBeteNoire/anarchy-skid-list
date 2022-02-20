@@ -63,7 +63,7 @@ Sjnez - OyVey/Phobos fetish, Skidded just about any client in order to make "Ren
 
 Es0terik - Oyvey/Phobos paster, made Gondal.club
 
-SirMeme - The single most retarded skid to ever touch intelij. Renamed varius public clients to "FutureX" and tried to sell them. He joined various discords to promote his dogshit.
+SirMeme - The single most retarded skid to ever touch intellij. Renamed varius public clients to "FutureX" and tried to sell them. He joined various discords to promote his dogshit.
 
 Novola/Trental - Somehow convinced Gopro to make oyvey buildable (a god awful decision). Then they proceeded to make the original oyvey paste called "Zori" that started this horrible trend.
 
@@ -87,7 +87,7 @@ Fe/Firerug/Watermat/Ongoing - Creater of the "Client" Ongoingware. I put client 
 
 Crazzzzzymonkey - Creator of one of the most nasty paid clients to exsist, "Catalyst". Is also a pedo (allegedly). Created a client that is a complete paste/rename of Gish code, and sells it for $20. I cringe everytime Kilab compares this god-forsaken trash to far supperior clients like Rusher, and Future, as if they are at all on the same level. Anyone with a brain can see past their reskined gui to the gish base below. Also pirates binsecure, and copes with dmca whenever anyone postes his deobfed shit.
 
-Skitty - Auful ~~develper~~ skid that ~~develped~~ pasted a terrible ~~client~~ kami skid called sn0w. Sn0w is a paste of any client Skitty can get his small immasculine hands on. It was made for severs with almost no anticheat, like cc (sense a trend here?). He also made a Xulu skid called Skitty hack that nobody cared about or used.
+Skitty - Awful ~~develper~~ skid that ~~develped~~ pasted a terrible ~~client~~ kami skid called sn0w. Sn0w is a paste of any client Skitty can get his small immasculine hands on. It was made for severs with almost no anticheat, like cc (sense a trend here?). He also made a Xulu skid called Skitty hack that nobody cared about or used.
 
 Elementars - The definition of a "good paster". Xulu is a paste of almost every decent client around at the time of its creation. It somehow was also a decent client at the same time which is very rare. It was also custom base, but featured a herocode gui. The code of Xulu is very bad at times and has a lot of quality inconsistancy due do the fact that there are legit 30 different devs code pasted in it 💀. Some classes still have the "Decompiled by Procyon" tag 😂. Has since quit, and now makes youtube videos trying to imatate Dream (down bad 💀).
 
